@@ -9,6 +9,9 @@ Remnant Save Manager allows you to easily backup and restore your Remnant: From 
 3. Unzip the latest release to a folder of your choosing (probably not the same folder where you have the game installed)
 4. Run RemnantSaveManager.exe
 
+## Usage
+For an explanation of the interface, check out [the wiki](https://github.com/Razzmatazzz/RemnantSaveManager/wiki).
+
 ## Screenshots
 [![image](https://github.com/mwong365/RemnantSaveManager/blob/documentation/Images/RemnantSaveManager-backups.png)
 ![image](https://github.com/mwong365/RemnantSaveManager/blob/documentation/Images/RemnantSaveManager-settings.png)
@@ -17,8 +20,6 @@ Remnant Save Manager allows you to easily backup and restore your Remnant: From 
 ## Known Issues
 - [Backups list doesn't refresh automatically](https://github.com/Razzmatazzz/RemnantSaveManager/issues/69)
 - [RemnantSaveManager.exe won't launch](https://github.com/Razzmatazzz/RemnantSaveManager/issues/64)
-
-For an explanation of the interface, check out [the wiki](https://github.com/Razzmatazzz/RemnantSaveManager/wiki).
 
 Credit to hzla for the [original online world analyzer](https://hzla.github.io/Remnant-World-Analyzer/).
 
